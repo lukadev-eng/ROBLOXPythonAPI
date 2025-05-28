@@ -1,3 +1,2 @@
 # ROBLOXPythonAPI
-API for ROBLOX in Python.
-
+Python module for ROBLOX API.
